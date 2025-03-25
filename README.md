@@ -1,1 +1,1 @@
-# aula-strings
+# exercícios básicos arrrays
